@@ -44,5 +44,3 @@ This is a simple **To-Do List** application built with **Flutter**. The project 
 ## Contributing
 
 Feel free to contribute to this project by submitting a pull request or reporting issues.
-
-```
